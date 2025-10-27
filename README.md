@@ -1,3 +1,5 @@
+
+
 <div align="center" markdown="1">
    <sup>Special thanks to:</sup>
    <br>
@@ -12,7 +14,7 @@
 </div>
 
 ---
-
+# Make sure you read all the instructions
 # ➤ Cursor Free VIP
 
 <div align="center">
